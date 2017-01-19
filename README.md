@@ -32,11 +32,11 @@ This program displays the string "Hello World!" on the screen. */
 A C# console application must contain a Main method, in which control starts and ends. The Main method is where you create objects and execute other methods.
 The Main method is a static method that resides inside a class or a struct. You can declare the Main method in one of the following ways:
 
--[x] It can return void.
+- [x] It can return void.
 ``` c#
 static void Main()
     {
         //...
     }
 ```
--[x] It can return an integer.
+- [x] It can return an integer.
