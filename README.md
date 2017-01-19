@@ -6,7 +6,7 @@ _Examples of introductory concepts_
 # To create and run a console application
 
 1. Start Visual Studio.
-2. On the menu bar, choose ** File, New, Project.**
+2. On the menu bar, choose __ File, New, Project.__
 3. The New Project dialog box opens.
 4. Expand Installed, expand Templates, expand Visual C#, and then choose Console Application.
 5. In the Name box, specify a name for your project, and then choose the OK button.
