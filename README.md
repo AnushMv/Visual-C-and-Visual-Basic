@@ -19,12 +19,11 @@ _Examples of introductory concepts_
 ## Comments
 
 The characters // convert the rest of the line to a comment.
-``` c# // A Hello World! program in C#. 
+``` c# // comments in C#. 
 ```
 You can also comment out a block of text by enclosing it between the /* and */ characters.
 ```c#
-/* A "Hello World!" program in C#.
-This program displays the string "Hello World!" on the screen. */
+/* comments in C#.*/
 ```
 
 ## Main Method
