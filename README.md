@@ -3,7 +3,7 @@ _Examples of introductory concepts_
 
 
 
-# To create and run a console application
+## To create and run a console application
 
 1. Start Visual Studio.
 2. On the menu bar, choose _File, New, Project._
@@ -16,7 +16,7 @@ _Examples of introductory concepts_
 9. Choose the F5 key to run the project. A Command Prompt window appears that contains the line with resoults of your code.
 
 
-# Comments
+## Comments
 
 The characters // convert the rest of the line to a comment.
 ``` c# // A Hello World! program in C#. 
@@ -27,15 +27,16 @@ You can also comment out a block of text by enclosing it between the /* and */ c
 This program displays the string "Hello World!" on the screen. */
 ```
 
-# Main Method
+## Main Method
 
-## A C# console application must contain a Main method, in which control starts and ends. The Main method is where you create objects and execute other methods.
+A C# console application must contain a Main method, in which control starts and ends. The Main method is where you create objects and execute other methods.
 The Main method is a static method that resides inside a class or a struct. You can declare the Main method in one of the following ways:
 
-It can return void.
+-[x] It can return void.
 ``` c#
 static void Main()
     {
         //...
     }
 ```
+-[x] It can return an integer.
