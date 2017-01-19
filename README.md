@@ -29,7 +29,7 @@ This program displays the string "Hello World!" on the screen. */
 
 # Main Method
 
-A C# console application must contain a Main method, in which control starts and ends. The Main method is where you create objects and execute other methods.
+## A C# console application must contain a Main method, in which control starts and ends. The Main method is where you create objects and execute other methods.
 The Main method is a static method that resides inside a class or a struct. You can declare the Main method in one of the following ways:
 
 It can return void.
